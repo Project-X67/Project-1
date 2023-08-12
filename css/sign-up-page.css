@@ -1,0 +1,86 @@
+.box{
+
+max-height: 567px;
+}
+.logo {
+    width: 30px;
+    margin-bottom: 20px;
+}
+
+.sign-up-box h2 {
+    margin-bottom: 20px;
+}
+
+.sign-up-box button img {
+    width: 18px;
+    margin-right: 10px;
+}
+
+.sign-up-box button {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    border-radius: 30px;
+    background: transparent;
+    border: 2px solid #999;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.sign-up-box hr {
+    border: 0;
+    height: 1px;
+    background: #c2c2c2;
+    margin: 5px;
+
+}
+
+
+#or {
+    display: block;
+    width: 40px;
+    margin: auto;
+    background: #fff;
+    font-size: 14px;
+    margin-top: -16px;
+}
+
+.note p {
+    font-size: 14px;
+    margin: 40px 0;
+    text-align: left;
+
+}
+
+.note span {
+ color: #0084ff;
+ text-decoration: white;
+}
+
+.sign-up-box p {
+    text-align: left;
+    font-size: 14px;
+    color: #555;
+    margin: 39.8px 0;
+    padding-bottom: 30px;
+}
+
+.sign-up-box p a {
+    text-decoration: none;
+    color: rgb(29, 155, 240);
+}
+
+.sign-up-box form button {
+    background: #000;
+    color: #fff;
+    border: 0;
+    margin-bottom: 15px;
+}
+
+.sign-up-box form button:hover {
+    background: #359cf0;
+
+}
